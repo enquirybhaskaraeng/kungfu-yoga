@@ -2552,6 +2552,15 @@ ul.menu-price li:last-child{
 .col-lg-4.padding030{
     padding:0px 30px;
 }
+
+
+@media only screen and (max-width: 768px) {
+
+.padding0301 {
+    padding: 137px 30px 30px 30px !important;
+}
+}
+
 ul.menu-price li p span{
     float: right;
     color: #ce9852;
